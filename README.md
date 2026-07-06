@@ -1,2 +1,2 @@
-# shoe-the-dragon
+# shoe
 It's a shoe!
